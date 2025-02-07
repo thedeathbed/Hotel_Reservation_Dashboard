@@ -42,6 +42,12 @@ Once set up, the dashboard can help:
 - Recognize patterns in reservations over time.
 - Make decisions that can enhance hotel operations and customer satisfaction.
 
+![image](https://github.com/user-attachments/assets/6dc2d091-1835-4166-a1b5-e535a89613a8)
+![image](https://github.com/user-attachments/assets/55d37a42-010c-483b-91c3-f01a7a73fa66)
+
+
+
+
 ### Contributing:
 If you'd like to contribute, you can fork the repository and submit your changes via a pull request.
 
