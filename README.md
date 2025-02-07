@@ -45,7 +45,8 @@ Once set up, the dashboard can help:
 ![image](https://github.com/user-attachments/assets/6dc2d091-1835-4166-a1b5-e535a89613a8)
 ![image](https://github.com/user-attachments/assets/55d37a42-010c-483b-91c3-f01a7a73fa66)
 
-
+https://app.powerbi.com/links/3ePKgAU2fW?ctid=d55c8df8-1f6c-4d62-8e12-fdcfe2b2e8d6&pbi_source=linkShare
+**Project Link**
 
 
 ### Contributing:
